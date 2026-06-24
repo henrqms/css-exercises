@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+#botton {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    }
+
+.clique-me {
+    background-color: black;
+    color: white;
+}
+.noclique,
+#botton:disabled {
+    background-color: yellow;
+    color: black;
+}
