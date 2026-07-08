@@ -6,13 +6,11 @@
 .flex-container div {
     background: peachpuff;
     border: 4px solid brown;
-    height: 100px;
-    flex: 1;
+    height: 600px;
+    width: 250px;
+    flex-direction: column;
 }
-.flex-container .two {
-    width: 125px;
-    
-}
+
 
 p {
     text-align: center;
