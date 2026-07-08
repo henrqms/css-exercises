@@ -1,0 +1,19 @@
+div {
+    padding: 30px;
+    text-align: center;
+    /*margin-bottom: 10px;*/
+    color: #EEEEEE;
+    display: inline-flex;
+}
+
+.sobre {
+    background-color: #548CA8;
+}
+.contato {
+    background-color: #476072;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.informacoes {
+    background-color: #334257;
+}
